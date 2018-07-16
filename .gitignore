@@ -1,7 +1,10 @@
 .DS_Store
 OS_postcodes/
 WA_postcodes/
+old/
+Completed/
+WA_postcodes_short/
 
 venv/
 
-latLongCsv.csv
+*.csv
